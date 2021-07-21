@@ -1,6 +1,9 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include<pair.h>
+#include<ConnectFour.h>
+#include<Algorithm.h>
 using namespace std;
 
 int total_nodes= 0;
